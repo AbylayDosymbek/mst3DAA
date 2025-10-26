@@ -1,7 +1,5 @@
 package edu.aitu.daa.mst;
-
 import java.util.*;
-
 public class PrimSolver {
     public static MstResult run(Graph g) {
         long t0 = System.nanoTime();

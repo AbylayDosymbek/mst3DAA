@@ -1,8 +1,6 @@
 package edu.aitu.daa.mst;
-
 import java.nio.file.*;
 import java.util.*;
-
 public class MainApp {
     private static void println(String s){ System.out.println(s); }
 

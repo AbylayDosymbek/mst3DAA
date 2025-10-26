@@ -1,6 +1,8 @@
 # City Transportation MST (Assignment 3)
 Student: Abylay Dosymbek
+
 Group: SE-2435
+
 Course instructor: Aidana Aidynkyzy
 
 small student project where i compare prim vs kruskal on a city road network (minimum spanning tree).just clean java + maven and a couple datasets to see performance and correctness. 

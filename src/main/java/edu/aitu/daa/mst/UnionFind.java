@@ -1,5 +1,4 @@
 package edu.aitu.daa.mst;
-
 public class UnionFind {
     private final int[] p;
     private final int[] r;

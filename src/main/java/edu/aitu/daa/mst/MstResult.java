@@ -1,7 +1,5 @@
 package edu.aitu.daa.mst;
-
 import java.util.*;
-
 public class MstResult {
     public String status = "OK";
     public List<int[]> mst_edges = new ArrayList<>(); // pairs of (u,v)

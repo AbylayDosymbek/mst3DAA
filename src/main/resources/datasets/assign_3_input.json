@@ -1,0 +1,581 @@
+{
+  "graphs": [
+    {
+      "id": 1,
+      "nodes": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "edges": [
+        {
+          "from": "A",
+          "to": "B",
+          "weight": 4
+        },
+        {
+          "from": "A",
+          "to": "C",
+          "weight": 3
+        },
+        {
+          "from": "B",
+          "to": "C",
+          "weight": 2
+        },
+        {
+          "from": "B",
+          "to": "D",
+          "weight": 5
+        },
+        {
+          "from": "C",
+          "to": "D",
+          "weight": 7
+        },
+        {
+          "from": "C",
+          "to": "E",
+          "weight": 8
+        },
+        {
+          "from": "D",
+          "to": "E",
+          "weight": 6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nodes": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "edges": [
+        {
+          "from": "A",
+          "to": "B",
+          "weight": 5.0
+        },
+        {
+          "from": "A",
+          "to": "C",
+          "weight": 6.0
+        },
+        {
+          "from": "A",
+          "to": "D",
+          "weight": 7.0
+        },
+        {
+          "from": "A",
+          "to": "K",
+          "weight": 14.0
+        },
+        {
+          "from": "A",
+          "to": "L",
+          "weight": 15.0
+        },
+        {
+          "from": "B",
+          "to": "G",
+          "weight": 2.25
+        },
+        {
+          "from": "B",
+          "to": "H",
+          "weight": 4.25
+        },
+        {
+          "from": "B",
+          "to": "I",
+          "weight": 6.25
+        },
+        {
+          "from": "C",
+          "to": "D",
+          "weight": 2.5
+        },
+        {
+          "from": "C",
+          "to": "E",
+          "weight": 5.5
+        },
+        {
+          "from": "C",
+          "to": "F",
+          "weight": 8.5
+        },
+        {
+          "from": "D",
+          "to": "J",
+          "weight": 15.0
+        },
+        {
+          "from": "D",
+          "to": "K",
+          "weight": 2.0
+        },
+        {
+          "from": "D",
+          "to": "L",
+          "weight": 6.0
+        },
+        {
+          "from": "E",
+          "to": "F",
+          "weight": 7.25
+        },
+        {
+          "from": "E",
+          "to": "G",
+          "weight": 12.25
+        },
+        {
+          "from": "E",
+          "to": "H",
+          "weight": 17.25
+        },
+        {
+          "from": "F",
+          "to": "L",
+          "weight": 17.5
+        },
+        {
+          "from": "G",
+          "to": "I",
+          "weight": 10.0
+        },
+        {
+          "from": "G",
+          "to": "J",
+          "weight": 17.0
+        },
+        {
+          "from": "G",
+          "to": "K",
+          "weight": 7.0
+        },
+        {
+          "from": "I",
+          "to": "K",
+          "weight": 16.5
+        },
+        {
+          "from": "I",
+          "to": "L",
+          "weight": 8.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nodes": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8",
+        "V9",
+        "V10",
+        "V11",
+        "V12",
+        "V13",
+        "V14",
+        "V15",
+        "V16",
+        "V17",
+        "V18",
+        "V19",
+        "V20",
+        "V21",
+        "V22",
+        "V23",
+        "V24",
+        "V25",
+        "V26",
+        "V27",
+        "V28"
+      ],
+      "edges": [
+        {
+          "from": "V1",
+          "to": "V2",
+          "weight": 4.5
+        },
+        {
+          "from": "V1",
+          "to": "V11",
+          "weight": 13.5
+        },
+        {
+          "from": "V1",
+          "to": "V20",
+          "weight": 5.5
+        },
+        {
+          "from": "V2",
+          "to": "V7",
+          "weight": 1.75
+        },
+        {
+          "from": "V2",
+          "to": "V8",
+          "weight": 3.75
+        },
+        {
+          "from": "V2",
+          "to": "V16",
+          "weight": 2.75
+        },
+        {
+          "from": "V2",
+          "to": "V17",
+          "weight": 4.75
+        },
+        {
+          "from": "V2",
+          "to": "V25",
+          "weight": 3.75
+        },
+        {
+          "from": "V2",
+          "to": "V26",
+          "weight": 5.75
+        },
+        {
+          "from": "V3",
+          "to": "V4",
+          "weight": 2.0
+        },
+        {
+          "from": "V3",
+          "to": "V13",
+          "weight": 12.0
+        },
+        {
+          "from": "V3",
+          "to": "V14",
+          "weight": 15.0
+        },
+        {
+          "from": "V3",
+          "to": "V22",
+          "weight": 5.0
+        },
+        {
+          "from": "V3",
+          "to": "V23",
+          "weight": 8.0
+        },
+        {
+          "from": "V4",
+          "to": "V10",
+          "weight": 14.5
+        },
+        {
+          "from": "V4",
+          "to": "V19",
+          "weight": 16.5
+        },
+        {
+          "from": "V4",
+          "to": "V28",
+          "weight": 1.5
+        },
+        {
+          "from": "V5",
+          "to": "V6",
+          "weight": 6.75
+        },
+        {
+          "from": "V5",
+          "to": "V7",
+          "weight": 11.75
+        },
+        {
+          "from": "V5",
+          "to": "V15",
+          "weight": 0.75
+        },
+        {
+          "from": "V5",
+          "to": "V16",
+          "weight": 5.75
+        },
+        {
+          "from": "V5",
+          "to": "V24",
+          "weight": 11.75
+        },
+        {
+          "from": "V5",
+          "to": "V25",
+          "weight": 16.75
+        },
+        {
+          "from": "V6",
+          "to": "V12",
+          "weight": 17.0
+        },
+        {
+          "from": "V6",
+          "to": "V13",
+          "weight": 6.0
+        },
+        {
+          "from": "V6",
+          "to": "V21",
+          "weight": 3.0
+        },
+        {
+          "from": "V6",
+          "to": "V22",
+          "weight": 9.0
+        },
+        {
+          "from": "V7",
+          "to": "V9",
+          "weight": 9.5
+        },
+        {
+          "from": "V7",
+          "to": "V18",
+          "weight": 4.5
+        },
+        {
+          "from": "V7",
+          "to": "V27",
+          "weight": 16.5
+        },
+        {
+          "from": "V8",
+          "to": "V14",
+          "weight": 9.75
+        },
+        {
+          "from": "V8",
+          "to": "V15",
+          "weight": 0.75
+        },
+        {
+          "from": "V8",
+          "to": "V23",
+          "weight": 13.75
+        },
+        {
+          "from": "V8",
+          "to": "V24",
+          "weight": 4.75
+        },
+        {
+          "from": "V9",
+          "to": "V11",
+          "weight": 16.0
+        },
+        {
+          "from": "V9",
+          "to": "V12",
+          "weight": 8.0
+        },
+        {
+          "from": "V9",
+          "to": "V20",
+          "weight": 12.0
+        },
+        {
+          "from": "V9",
+          "to": "V21",
+          "weight": 4.0
+        },
+        {
+          "from": "V10",
+          "to": "V17",
+          "weight": 3.5
+        },
+        {
+          "from": "V10",
+          "to": "V26",
+          "weight": 8.5
+        },
+        {
+          "from": "V11",
+          "to": "V13",
+          "weight": 12.75
+        },
+        {
+          "from": "V11",
+          "to": "V14",
+          "weight": 6.75
+        },
+        {
+          "from": "V11",
+          "to": "V22",
+          "weight": 9.75
+        },
+        {
+          "from": "V11",
+          "to": "V23",
+          "weight": 3.75
+        },
+        {
+          "from": "V12",
+          "to": "V19",
+          "weight": 15.0
+        },
+        {
+          "from": "V12",
+          "to": "V20",
+          "weight": 10.0
+        },
+        {
+          "from": "V12",
+          "to": "V28",
+          "weight": 4.0
+        },
+        {
+          "from": "V13",
+          "to": "V16",
+          "weight": 13.5
+        },
+        {
+          "from": "V13",
+          "to": "V25",
+          "weight": 11.5
+        },
+        {
+          "from": "V14",
+          "to": "V21",
+          "weight": 16.75
+        },
+        {
+          "from": "V14",
+          "to": "V22",
+          "weight": 13.75
+        },
+        {
+          "from": "V15",
+          "to": "V18",
+          "weight": 12.0
+        },
+        {
+          "from": "V15",
+          "to": "V19",
+          "weight": 10.0
+        },
+        {
+          "from": "V15",
+          "to": "V27",
+          "weight": 11.0
+        },
+        {
+          "from": "V15",
+          "to": "V28",
+          "weight": 9.0
+        },
+        {
+          "from": "V16",
+          "to": "V24",
+          "weight": 8.5
+        },
+        {
+          "from": "V17",
+          "to": "V20",
+          "weight": 0.75
+        },
+        {
+          "from": "V17",
+          "to": "V21",
+          "weight": 0.75
+        },
+        {
+          "from": "V18",
+          "to": "V26",
+          "weight": 12.0
+        },
+        {
+          "from": "V18",
+          "to": "V27",
+          "weight": 13.0
+        },
+        {
+          "from": "V19",
+          "to": "V23",
+          "weight": 16.5
+        },
+        {
+          "from": "V20",
+          "to": "V28",
+          "weight": 5.75
+        },
+        {
+          "from": "V21",
+          "to": "V25",
+          "weight": 7.0
+        },
+        {
+          "from": "V21",
+          "to": "V26",
+          "weight": 11.0
+        },
+        {
+          "from": "V23",
+          "to": "V27",
+          "weight": 4.75
+        },
+        {
+          "from": "V23",
+          "to": "V28",
+          "weight": 10.75
+        },
+        {
+          "from": "V24",
+          "to": "V25",
+          "weight": 3.0
+        },
+        {
+          "from": "V26",
+          "to": "V27",
+          "weight": 6.75
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nodes": [
+        "X1",
+        "X2",
+        "Y1",
+        "Y2"
+      ],
+      "edges": [
+        {
+          "from": "X1",
+          "to": "X2",
+          "weight": 1.0
+        },
+        {
+          "from": "Y1",
+          "to": "Y2",
+          "weight": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+graph_id,algo,total_cost,time_ms,operations
+1,Prim,17.0,4.4263,14
+1,Kruskal,16.0,0.8135,29
+2,Prim,83.0,0.1349,46
+2,Kruskal,62.0,0.0333,147
+3,Prim,149.25,0.1453,136
+3,Kruskal,104.25,0.1078,510
+4,Prim,0.0,0.0129,2
+4,Kruskal,0.0,0.0075,7

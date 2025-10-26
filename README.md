@@ -7,7 +7,7 @@ Course instructor: Aidana Aidynkyzy
 
 small student project where i compare prim vs kruskal on a city road network (minimum spanning tree).just clean java + maven and a couple datasets to see performance and correctness. 
 
-## Quick Start (IntelliJ)
+## Quick Start (in INTELLIJ)
 
 1. open the project in intellij idea.
 2. go to run → edit configurations… → + → application:
@@ -24,7 +24,7 @@ small student project where i compare prim vs kruskal on a city road network (mi
 
 note: every run overwrites these files. if you want to keep older stuff, change names like -out out/output_v2.json -csv out/summary_v2.csv.
 
-## Quick Start (JAR)
+## Quick Start (for jar)
 
 if you prefer terminal:
 ```bash
@@ -79,7 +79,7 @@ graph_id,algo,total_cost,time_ms,operations
 1,Kruskal,XX.XX,YY.YY,ZZZ
 ...
 ```
-
+the outputs are updating each time the code runs.
 ## Tests
 
 run tests:

@@ -1,7 +1,5 @@
 package edu.aitu.daa.mst;
-
 import java.util.*;
-
 public class Graph {
     public final List<String> labels;
     public final List<Edge> edges;
